@@ -48,10 +48,10 @@ a:hover::after {
 
 .navbar {
     position: sticky;
-    top: 30px;
+    top: 10px;
     font-size: 50px;
   padding: 8px 100px;
-    align-items: center;
+  align-items: center;
 
 }
 .navbar a{
@@ -61,4 +61,23 @@ a:hover::after {
 }
 body {
 background-color: cadetblue;
+
+}
+h1{
+font-family: cursive;
+text-align: center;
+}
+h2{
+  font-family: cursive;
+  text-align: center;
+}
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+img {
+  width: 250px;
+  position: center;
 }

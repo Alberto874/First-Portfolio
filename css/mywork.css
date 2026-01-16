@@ -48,7 +48,7 @@ a:hover::after {
 
 .navbar {
     position: sticky;
-    top: 30px;
+    top: 10px;
     font-size: 50px;
   padding: 8px 100px;
     align-items: center;
@@ -61,4 +61,12 @@ a:hover::after {
 }
 body {
 background-color: mediumorchid;
+}
+h1 {
+  font-family: cursive;
+  font-size: x-large;
+}
+li{
+  font-family: cursive;
+  font-size: x-large;
 }
